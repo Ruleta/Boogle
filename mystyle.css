@@ -1,0 +1,16 @@
+body {background-color:yellow}
+{font-family:"Georgia";}
+{font-size:30px;}
+p {color: red;}
+.image {
+  border: 6px black dotted;
+  padding: 5px;
+}
+.image:hover {
+  border: 6px red solid;
+}
+.relative {
+  position:relative;
+  top: -20px;
+  left: 20px;
+}
